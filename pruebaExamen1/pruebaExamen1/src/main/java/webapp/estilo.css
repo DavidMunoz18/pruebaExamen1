@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body{
+	border: solid black;
+}
+.titulo{
+	text-align: center;
+	background-color: #D9C6C2;
+	border: solid black;
+	font-size: 20px;	
+}
+button{
+	height: 40px;
+	width: 200px;
+	border: solid black;
+	display: inline;
+}
+.bot1{
+	margin-top: 10px;
+	margin-left: 100px;
+	background-color: orange;
+	
+}
+.bot2{
+	margin-right: 100px;
+	margin-top: 10px;
+	border: solid black;
+	float: inline-end;
+	background-color: orange;
+}
+.bot3{
+	margin-top: 10px;
+	margin-left: 100px;
+	border: solid black;
+	height: 150px;
+	width: 150px;
+	
+	
+}
+.bot4{
+	margin-top: 10px;
+	background-color: white;
+	border: solid black;
+	float: inline-end;
+	margin-right: 80px;
+	height: 150px;
+	width: 50px;
+}
+.bot5{
+	height: 150px;
+	width: 150px;
+	margin-left: 400px;
+	
+}
+.segundo{
+	height: 70px;
+	background-color: #4AF4F1;
+}
+.tercero{
+	height: 200px;
+border: solid black;
+}
+footer{
+	text-align: center;
+	border: solid black;
+	background-color: #728B8B;
+}
+.formulario{
+	border: solid black;
+}
+input:hover{
+	background-color: yellow;
+}
+input:focus{
+	background-color: red;
+}
+.imagen2{
+	float: inline-end;
+}
+.img2{
+	float: inline-end;
+	margin-top: 20px;
+}
+.imagenes{
+	border: solid black;
+	height: 1000px;
+	
+}
+video{
+	border: solid black;
+}
+	
